@@ -1,13 +1,14 @@
 {
   "files": {
-    "main.css": "/pjsekai-birthday-countdown/static/css/main.f228d52d.css",
-    "main.js": "/pjsekai-birthday-countdown/static/js/main.a969b2c4.js",
+    "main.css": "/pjsekai-birthday-countdown/static/css/main.87c530d6.css",
+    "main.js": "/pjsekai-birthday-countdown/static/js/main.7cb8b559.js",
+    "static/js/900.ee1cfed8.chunk.js": "/pjsekai-birthday-countdown/static/js/900.ee1cfed8.chunk.js",
     "index.html": "/pjsekai-birthday-countdown/index.html",
-    "main.f228d52d.css.map": "/pjsekai-birthday-countdown/static/css/main.f228d52d.css.map",
-    "main.a969b2c4.js.map": "/pjsekai-birthday-countdown/static/js/main.a969b2c4.js.map"
+    "main.87c530d6.css.map": "/pjsekai-birthday-countdown/static/css/main.87c530d6.css.map",
+    "main.7cb8b559.js.map": "/pjsekai-birthday-countdown/static/js/main.7cb8b559.js.map"
   },
   "entrypoints": [
-    "static/css/main.f228d52d.css",
-    "static/js/main.a969b2c4.js"
+    "static/css/main.87c530d6.css",
+    "static/js/main.7cb8b559.js"
   ]
 }
