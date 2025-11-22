@@ -1,0 +1,542 @@
+[
+    {
+        "id": 1,
+        "ko": "VIRTUAL SINGER",
+        "ja": "VIRTUAL SINGER",
+        "en": "VIRTUAL SINGER",
+        "color": "#000000"
+    },
+    {
+        "id": 2,
+        "ko": "Leo/need",
+        "ja": "Leo/need",
+        "en": "Leo/need",
+        "color": "#4455dd"
+    },
+    {
+        "id": 3,
+        "ko": "MORE MORE JUMP!",
+        "ja": "MORE MORE JUMP!",
+        "en": "MORE MORE JUMP!",
+        "color": "#88dd44"
+    },
+    {
+        "id": 4,
+        "ko": "Vivid BAD SQUAD",
+        "ja": "Vivid BAD SQUAD",
+        "en": "Vivid BAD SQUAD",
+        "color": "#ee1166"
+    },
+    {
+        "id": 5,
+        "ko": "원더랜즈×쇼타임",
+        "ja": "ワンダーランズ×ショウタイム",
+        "en": "Wonderlands×Showtime",
+        "color": "#ff9900"
+    },
+    {
+        "id": 6,
+        "ko": "25시, 나이트 코드에서.",
+        "ja": "25時、ナイトコードで。",
+        "en": "Nightcord at 25:00",
+        "color": "#884499"
+    },
+    {
+        "id": 7,
+        "ko": "하츠네 미쿠",
+        "firstNameKo": "미쿠",
+        "ja": "初音ミク",
+        "lastNameKanji": "初音",
+        "firstNameKanji": "ミク",
+        "lastNameKana": "はつね",
+        "firstNameKana": "ミク",
+        "en": "MIKU HATSUNE",
+        "firstName": "MIKU",
+        "groupId": {
+            "ko": "VIRTUAL SINGER",
+            "ja": "VIRTUAL SINGER",
+            "en": "VIRTUAL SINGER"
+        },
+        "birthday": "08-31",
+        "color": "#39c5bb"
+    },
+    {
+        "id": 8,
+        "ko": "카가미네 린",
+        "firstNameKo": "린",
+        "ja": "鏡音リン",
+        "lastNameKanji": "鏡音",
+        "firstNameKanji": "リン",
+        "lastNameKana": "かがみね",
+        "firstNameKana": "リン",
+        "en": "RIN KAGAMINE",
+        "firstName": "RIN",
+        "groupId": {
+            "ko": "VIRTUAL SINGER",
+            "ja": "VIRTUAL SINGER",
+            "en": "VIRTUAL SINGER"
+        },
+        "birthday": "12-27",
+        "color": "#ffa500"
+    },
+    {
+        "id": 9,
+        "ko": "카가미네 렌",
+        "firstNameKo": "렌",
+        "ja": "鏡音レン",
+        "lastNameKanji": "鏡音",
+        "firstNameKanji": "レン",
+        "lastNameKana": "かがみね",
+        "firstNameKana": "レン",
+        "en": "LEN KAGAMINE",
+        "firstName": "LEN",
+        "groupId": {
+            "ko": "VIRTUAL SINGER",
+            "ja": "VIRTUAL SINGER",
+            "en": "VIRTUAL SINGER"
+        },
+        "birthday": "12-27",
+        "color": "#ffe211"
+    },
+    {
+        "id": 10,
+        "ko": "메구리네 루카",
+        "firstNameKo": "루카",
+        "ja": "巡音ルカ",
+        "lastNameKanji": "巡音",
+        "firstNameKanji": "ルカ",
+        "lastNameKana": "めぐりね",
+        "firstNameKana": "ルカ",
+        "en": "LUKA MEGURINE",
+        "firstName": "LUKA",
+        "groupId": {
+            "ko": "VIRTUAL SINGER",
+            "ja": "VIRTUAL SINGER",
+            "en": "VIRTUAL SINGER"
+        },
+        "birthday": "01-30",
+        "color": "#ffc0cb"
+    },
+    {
+        "id": 11,
+        "ko": "메이코",
+        "firstNameKo": "메이코",
+        "ja": "メイコ",
+        "lastNameKanji": "",
+        "firstNameKanji": "メイコ",
+        "lastNameKana": "",
+        "firstNameKana": "メイコ",
+        "en": "MEIKO",
+        "firstName": "MEIKO",
+        "groupId": {
+            "ko": "VIRTUAL SINGER",
+            "ja": "VIRTUAL SINGER",
+            "en": "VIRTUAL SINGER"
+        },
+        "birthday": "11-05",
+        "color": "#d80000"
+    },
+    {
+        "id": 12,
+        "ko": "카이토",
+        "firstNameKo": "카이토",
+        "ja": "カイト",
+        "lastNameKanji": "",
+        "firstNameKanji": "カイト",
+        "lastNameKana": "",
+        "firstNameKana": "カイト",
+        "en": "KAITO",
+        "firstName": "KAITO",
+        "groupId": {
+            "ko": "VIRTUAL SINGER",
+            "ja": "VIRTUAL SINGER",
+            "en": "VIRTUAL SINGER"
+        },
+        "birthday": "02-17",
+        "color": "#3468cd"
+    },
+    {
+        "id": 13,
+        "ko": "호시노 이치카",
+        "firstNameKo": "이치카",
+        "ja": "星乃 一歌",
+        "lastNameKanji": "星乃",
+        "firstNameKanji": "一歌",
+        "lastNameKana": "ほしの",
+        "firstNameKana": "いちか",
+        "en": "Ichika Hoshino",
+        "firstName": "Ichika",
+        "groupId": {
+            "ko": "Leo/need",
+            "ja": "Leo/need",
+            "en": "Leo/need"
+        },
+        "birthday": "08-11",
+        "color": "#33aaee"
+    },
+    {
+        "id": 14,
+        "ko": "텐마 사키",
+        "firstNameKo": "사키",
+        "ja": "天馬 咲希",
+        "lastNameKanji": "天馬",
+        "firstNameKanji": "咲希",
+        "lastNameKana": "てんま",
+        "firstNameKana": "さき",
+        "en": "Saki Tenma",
+        "firstName": "Saki",
+        "groupId": {
+            "ko": "Leo/need",
+            "ja": "Leo/need",
+            "en": "Leo/need"
+        },
+        "birthday": "05-09",
+        "color": "#ffdd44"
+    },
+    {
+        "id": 15,
+        "ko": "모치즈키 호나미",
+        "firstNameKo": "호나미",
+        "ja": "望月 穂波",
+        "lastNameKanji": "望月",
+        "firstNameKanji": "穂波",
+        "lastNameKana": "もちづき",
+        "firstNameKana": "ほなみ",
+        "en": "Honami Mochizuki",
+        "firstName": "Honami",
+        "groupId": {
+            "ko": "Leo/need",
+            "ja": "Leo/need",
+            "en": "Leo/need"
+        },
+        "birthday": "10-27",
+        "color": "#ee6666"
+    },
+    {
+        "id": 16,
+        "ko": "히노모리 시호",
+        "firstNameKo": "시호",
+        "ja": "日野森 志歩",
+        "lastNameKanji": "日野森",
+        "firstNameKanji": "志歩",
+        "lastNameKana": "ひのもり",
+        "firstNameKana": "しほ",
+        "en": "Shiho Hinomori",
+        "firstName": "Shiho",
+        "groupId": {
+            "ko": "Leo/need",
+            "ja": "Leo/need",
+            "en": "Leo/need"
+        },
+        "birthday": "01-08",
+        "color": "#bbdd22"
+    },
+    {
+        "id": 17,
+        "ko": "하나사토 미노리",
+        "firstNameKo": "미노리",
+        "ja": "花里 みのり",
+        "lastNameKanji": "花里",
+        "firstNameKanji": "みのり",
+        "lastNameKana": "はなさと",
+        "firstNameKana": "みのり",
+        "en": "Minori Hanasato",
+        "firstName": "Minori",
+        "groupId": {
+            "ko": "MORE MORE JUMP!",
+            "ja": "MORE MORE JUMP!",
+            "en": "MORE MORE JUMP!"
+        },
+        "birthday": "04-14",
+        "color": "#ffccaa"
+    },
+    {
+        "id": 18,
+        "ko": "키리타니 하루카",
+        "firstNameKo": "하루카",
+        "ja": "桐谷 遥",
+        "lastNameKanji": "桐谷",
+        "firstNameKanji": "遥",
+        "lastNameKana": "きりたに",
+        "firstNameKana": "はるか",
+        "en": "Haruka Kiritani",
+        "firstName": "Haruka",
+        "groupId": {
+            "ko": "MORE MORE JUMP!",
+            "ja": "MORE MORE JUMP!",
+            "en": "MORE MORE JUMP!"
+        },
+        "birthday": "10-05",
+        "color": "#99ccff"
+    },
+    {
+        "id": 19,
+        "ko": "모모이 아이리",
+        "firstNameKo": "아이리",
+        "ja": "桃井 愛莉",
+        "lastNameKanji": "桃井",
+        "firstNameKanji": "愛莉",
+        "lastNameKana": "ももい",
+        "firstNameKana": "あいり",
+        "en": "Airi Momoi",
+        "firstName": "Airi",
+        "groupId": {
+            "ko": "MORE MORE JUMP!",
+            "ja": "MORE MORE JUMP!",
+            "en": "MORE MORE JUMP!"
+        },
+        "birthday": "03-19",
+        "color": "#ffaacc"
+    },
+    {
+        "id": 20,
+        "ko": "히노모리 시즈쿠",
+        "firstNameKo": "시즈쿠",
+        "ja": "日野森 雫",
+        "lastNameKanji": "日野森",
+        "firstNameKanji": "雫",
+        "lastNameKana": "ひのもり",
+        "firstNameKana": "しずく",
+        "en": "Shizuku Hinomori",
+        "firstName": "Shizuku",
+        "groupId": {
+            "ko": "MORE MORE JUMP!",
+            "ja": "MORE MORE JUMP!",
+            "en": "MORE MORE JUMP!"
+        },
+        "birthday": "12-06",
+        "color": "#99eedd"
+    },
+    {
+        "id": 21,
+        "ko": "아즈사와 코하네",
+        "firstNameKo": "코하네",
+        "ja": "小豆沢 こはね",
+        "lastNameKanji": "小豆沢",
+        "firstNameKanji": "こはね",
+        "lastNameKana": "あずさわ",
+        "firstNameKana": "こはね",
+        "en": "Kohane Azusawa",
+        "firstName": "Kohane",
+        "groupId": {
+            "ko": "Vivid BAD SQUAD",
+            "ja": "Vivid BAD SQUAD",
+            "en": "Vivid BAD SQUAD"
+        },
+        "birthday": "03-02",
+        "color": "#ff6699"
+    },
+    {
+        "id": 22,
+        "ko": "시라이시 안",
+        "firstNameKo": "안",
+        "ja": "白石 杏",
+        "lastNameKanji": "白石",
+        "firstNameKanji": "杏",
+        "lastNameKana": "しらいし",
+        "firstNameKana": "あん",
+        "en": "An Shiraishi",
+        "firstName": "An",
+        "groupId": {
+            "ko": "Vivid BAD SQUAD",
+            "ja": "Vivid BAD SQUAD",
+            "en": "Vivid BAD SQUAD"
+        },
+        "birthday": "07-26",
+        "color": "#00bbdd"
+    },
+    {
+        "id": 23,
+        "ko": "시노노메 아키토",
+        "firstNameKo": "아키토",
+        "ja": "東雲 彰人",
+        "lastNameKanji": "東雲",
+        "firstNameKanji": "彰人",
+        "lastNameKana": "しののめ",
+        "firstNameKana": "あきと",
+        "en": "Akito Shinonome",
+        "firstName": "Akito",
+        "groupId": {
+            "ko": "Vivid BAD SQUAD",
+            "ja": "Vivid BAD SQUAD",
+            "en": "Vivid BAD SQUAD"
+        },
+        "birthday": "11-12",
+        "color": "#ff7722"
+    },
+    {
+        "id": 24,
+        "ko": "아오야기 토우야",
+        "firstNameKo": "토우야",
+        "ja": "青柳 冬弥",
+        "lastNameKanji": "青柳",
+        "firstNameKanji": "冬弥",
+        "lastNameKana": "あおやぎ",
+        "firstNameKana": "とうや",
+        "en": "Toya Aoyagi",
+        "firstName": "Toya",
+        "groupId": {
+            "ko": "Vivid BAD SQUAD",
+            "ja": "Vivid BAD SQUAD",
+            "en": "Vivid BAD SQUAD"
+        },
+        "birthday": "05-25",
+        "color": "#0077dd"
+    },
+    {
+        "id": 25,
+        "ko": "텐마 츠카사",
+        "firstNameKo": "츠카사",
+        "ja": "天馬 司",
+        "lastNameKanji": "天馬",
+        "firstNameKanji": "司",
+        "lastNameKana": "てんま",
+        "firstNameKana": "つかさ",
+        "en": "Tsukasa Tenma",
+        "firstName": "Tenma",
+        "groupId": {
+            "ko": "원더랜즈×쇼타임",
+            "ja": "ワンダーランズ×ショウタイム",
+            "en": "Wonderlands×Showtime"
+        },
+        "birthday": "05-17",
+        "color": "#ffbb00"
+    },
+    {
+        "id": 26,
+        "ko": "오오토리 에무",
+        "firstNameKo": "에무",
+        "ja": "鳳 えむ",
+        "lastNameKanji": "鳳",
+        "firstNameKanji": "えむ",
+        "lastNameKana": "おおとり",
+        "firstNameKana": "えむ",
+        "en": "Emu Otori",
+        "firstName": "Emu",
+        "groupId": {
+            "ko": "원더랜즈×쇼타임",
+            "ja": "ワンダーランズ×ショウタイム",
+            "en": "Wonderlands×Showtime"
+        },
+        "birthday": "09-09",
+        "color": "#ff66bb"
+    },
+    {
+        "id": 27,
+        "ko": "쿠사나기 네네",
+        "firstNameKo": "네네",
+        "ja": "草薙 寧々",
+        "lastNameKanji": "草薙",
+        "firstNameKanji": "寧々",
+        "lastNameKana": "くさなぎ",
+        "firstNameKana": "ねね",
+        "en": "Nene Kusanagi",
+        "firstName": "Nene",
+        "groupId": {
+            "ko": "원더랜즈×쇼타임",
+            "ja": "ワンダーランズ×ショウタイム",
+            "en": "Wonderlands×Showtime"
+        },
+        "birthday": "07-20",
+        "color": "#33dd99"
+    },
+    {
+        "id": 28,
+        "ko": "카미시로 루이",
+        "firstNameKo": "루이",
+        "ja": "神代 類",
+        "lastNameKanji": "神代",
+        "firstNameKanji": "類",
+        "lastNameKana": "かみしろ",
+        "firstNameKana": "るい",
+        "en": "Rui Kamishiro",
+        "firstName": "Rui",
+        "groupId": {
+            "ko": "원더랜즈×쇼타임",
+            "ja": "ワンダーランズ×ショウタイム",
+            "en": "Wonderlands×Showtime"
+        },
+        "birthday": "06-24",
+        "color": "#bb88ee"
+    },
+    {
+        "id": 29,
+        "ko": "요이사키 카나데",
+        "firstNameKo": "카나데",
+        "ja": "宵崎 奏",
+        "lastNameKanji": "宵崎",
+        "firstNameKanji": "奏",
+        "lastNameKana": "よいさき",
+        "firstNameKana": "かなで",
+        "en": "Kanade Yoisaki",
+        "firstName": "Kanade",
+        "groupId": {
+            "ko": "25시, 나이트 코드에서.",
+            "ja": "25時、ナイトコードで。",
+            "en": "Nightcord at 25:00"
+        },
+        "birthday": "02-10",
+        "color": "#bb6688"
+    },
+    {
+        "id": 30,
+        "ko": "아사히나 마후유",
+        "firstNameKo": "마후유",
+        "ja": "朝比奈 まふゆ",
+        "lastNameKanji": "朝比奈",
+        "firstNameKanji": "まふゆ",
+        "lastNameKana": "あさひな",
+        "firstNameKana": "まふゆ",
+        "en": "Mafuyu Asahina",
+        "firstName": "Mafuyu",
+        "groupId": {
+            "ko": "25시, 나이트 코드에서.",
+            "ja": "25時、ナイトコードで。",
+            "en": "Nightcord at 25:00"
+        },
+        "birthday": "01-27",
+        "color": "#8888cc"
+    },
+    {
+        "id": 31,
+        "ko": "시노노메 에나",
+        "firstNameKo": "에나",
+        "ja": "東雲 絵名",
+        "lastNameKanji": "東雲",
+        "firstNameKanji": "絵名",
+        "lastNameKana": "しののめ",
+        "firstNameKana": "えな",
+        "en": "Ena Shinonome",
+        "firstName": "Ena",
+        "groupId": {
+            "ko": "25시, 나이트 코드에서.",
+            "ja": "25時、ナイトコードで。",
+            "en": "Nightcord at 25:00"
+        },
+        "birthday": "04-30",
+        "color": "#ccaa88"
+    },
+    {
+        "id": 32,
+        "ko": "아키야마 미즈키",
+        "firstNameKo": "미즈키",
+        "ja": "暁山 瑞希",
+        "lastNameKanji": "暁山",
+        "firstNameKanji": "瑞希",
+        "lastNameKana": "あきやま",
+        "firstNameKana": "みずき",
+        "en": "Mizuki Akiyama",
+        "firstName": "Mizuki",
+        "groupId": {
+            "ko": "25시, 나이트 코드에서.",
+            "ja": "25時、ナイトコードで。",
+            "en": "Nightcord at 25:00"
+        },
+        "birthday": "08-27",
+        "color": "#ddaacc"
+    }
+]
+
+
+
+
